@@ -1,0 +1,15 @@
+{
+	"name": "adfazureprojectr",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63eda492-d19f-42fd-80bd-488b801a7d75",
+		"tenantId": "f37ca923-7aa4-46ba-a610-6ce637012420"
+	}
+}
