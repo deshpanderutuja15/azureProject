@@ -8,6 +8,10 @@
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
+					"items": {
+						"value": "item()",
+						"type": "Expression"
+					},
 					"activities": [
 						{
 							"name": "AzureSQLtoLake",
